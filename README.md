@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Noman Ahmad
 
-<!--
-**3noman/3noman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring DevOps Engineer | AWS & Cloud Computing
 
-Here are some ideas to get you started:
+I'm a Software Engineering student building practical skills in **DevOps, Cloud Infrastructure, Linux, Automation, and CI/CD**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning by building hands-on projects and documenting what I learn.
+
+### Tech Stack
+
+**Cloud & DevOps**
+
+* AWS
+* Docker
+* Git & GitHub
+* Jenkins
+* Ansible
+* Terraform
+* Kubernetes
+
+**Monitoring**
+
+* Prometheus
+* Grafana
+
+**Operating Systems & Scripting**
+
+* Linux / Ubuntu
+* Bash
+
+### Featured Projects
+
+**DevOps Portfolio**
+My personal portfolio showcasing my DevOps learning, projects, and technical skills.
+
+[Visit Portfolio →](https://3noman.github.io/noman-devops-portfolio/)
+
+### Currently Learning
+
+* AWS Cloud Infrastructure
+* CI/CD pipelines
+* Infrastructure as Code
+* Containerization & Kubernetes
+* Monitoring & Observability
+* DevOps Automation
+
+### Connect
+
+* GitHub: [@3noman](https://github.com/3noman)
+* Portfolio: [noman-devops-portfolio](https://3noman.github.io/noman-devops-portfolio/)
